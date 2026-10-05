@@ -44,11 +44,6 @@ export default function About() {
               diferenciamos por desarrollar nuestros propios sensores y dispositivos, lo que nos
               permite adaptar cada instalación a las necesidades específicas de cada cliente.
             </p>
-            <p className="text-slate-500 leading-relaxed mb-10">
-              Constituida como S.L. por Ignacio Gimenez, Fadi Djerdali y Mohammed Alghuraibi, ofrecemos un
-              servicio integral: desde el estudio inicial hasta el mantenimiento continuo, sin que el
-              cliente tenga que preocuparse por la parte técnica.
-            </p>
 
             {/* Mission / Vision */}
             <div className="grid sm:grid-cols-2 gap-4 mb-10">
